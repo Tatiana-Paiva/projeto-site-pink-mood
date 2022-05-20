@@ -1,7 +1,7 @@
-#Projeto do Site da Boutique Pink Mood
+### Projeto do Site da Boutique Pink Mood
 
-## Principais atividades
+# Principais atividades
 
-### Landing Page
+# Landing Page
 - HTML5
 - CSS3
